@@ -18,7 +18,7 @@ Skrip Python ini dirancang untuk **mengotomatisasi proses mining dan klaim task*
 git clone https://github.com/danzkyxyz/Elon-Musk-Life-MiniApp-Auto-Miner-Task-Claimer.git
 ```
 ```bash
-pip install -r requirements.txt
+pip install requests colorama rich
 ```
 ```bash
 python main.py
