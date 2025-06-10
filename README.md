@@ -48,3 +48,7 @@ BEAR_TOKEN=yyy
 - `proxy.txt` — (Opsional) Daftar proxy satu per baris, format:
 - Tanpa autentikasi: `http://ip:port`
 - Dengan autentikasi: `http://user:pass@ip:port`
+
+## Cara ambil token dan bear token
+
+![Image](https://github.com/user-attachments/assets/10b6d050-67b2-412f-9be3-91b0ce5602f7)
