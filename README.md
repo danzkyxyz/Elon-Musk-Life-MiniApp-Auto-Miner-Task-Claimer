@@ -2,7 +2,7 @@
 
 Skrip Python ini dirancang untuk **mengotomatisasi proses mining dan klaim task** pada platform [ElonMuskLife MiniApp](https://t.me/elonmusklifebot/earn?startapp=1824331381). Script ini mendukung **multi akun** dan **proxy** secara otomatis, serta dilengkapi **tampilan konsol interaktif** yang menarik menggunakan `rich` dan `colorama`.
 
-
+## START BOT https://t.me/elonmusklifebot/earn?startapp=1824331381
 
 ## ✨ Fitur
 
