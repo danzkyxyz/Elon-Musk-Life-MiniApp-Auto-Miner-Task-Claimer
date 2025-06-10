@@ -52,3 +52,5 @@ BEAR_TOKEN=yyy
 ## Cara ambil token dan bear token
 
 ![Image](https://github.com/user-attachments/assets/10b6d050-67b2-412f-9be3-91b0ce5602f7)
+
+COPY SEMUA ISI TOKEN DAN BEAR TOKEN
